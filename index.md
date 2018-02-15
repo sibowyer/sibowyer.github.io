@@ -1,4 +1,5 @@
 ---
+theme: minima
 layout: index
 title: Biofinity
 ---
