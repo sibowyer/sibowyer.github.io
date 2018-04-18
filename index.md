@@ -1,6 +1,6 @@
 ---
-title: Biofinity
+title: SiBowyer
 ---
-# Biofinity Consulting
+# SiBowyer
 - - -
-International market access and health economics. Based in London, working globally.
+This page intentionally left blank, for now.
