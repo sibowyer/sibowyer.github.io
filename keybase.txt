@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/simonbowyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://simonbowyer.com
+  * I am simonbowyer (https://keybase.io/simonbowyer) on keybase.
+  * I have a public key ASDXcmu8aIZlA5m2eXG4U1totwklSWELvbnoKIcbA7CIPwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d7726bbc6886650399b67971b8535b68b7092549610bbdb9e828871b03b0883f0a",
+      "host": "keybase.io",
+      "kid": "0120d7726bbc6886650399b67971b8535b68b7092549610bbdb9e828871b03b0883f0a",
+      "uid": "153f22cfb555a2d296f21fb385812019",
+      "username": "simonbowyer"
+    },
+    "merkle_root": {
+      "ctime": 1592864375,
+      "hash": "0bbb6515bc2c1f169dad8659af7bc94478c1ae4c58ceaa3210a42b35ffbaa5524af830b1e414433b93200c1bca3084fbca2a830de1518238f6395425c43be9ed",
+      "hash_meta": "b8a03f293162cb94e49f0ad076cca1b480c5f7be0eaa31fc4e9b1a8dffdeb73e",
+      "seqno": 16747225
+    },
+    "service": {
+      "entropy": "gpd5gjYIrColT5xGuvC0+Km2",
+      "hostname": "simonbowyer.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1592864471,
+  "expire_in": 504576000,
+  "prev": "eb7b1f4f3098ba4278e8f5ec8b0c1150982ac450d40a2d08d4f8cb3047b93f47",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg13JrvGiGZQOZtnlxuFNbaLcJJUlhC7256CiHGwOwiD8Kp3BheWxvYWTESpcCEsQg63sfTzCYukJ46PXsiwwRUJgqxFDUCi0I1PjLMEe5P0fEILqVqi2uYmMlUyoGq67MzGIlE8B0D77xBG2uGMtrTtNgAgHCo3NpZ8RArVeoWzqOApieEipimkBBCtKQZte6q2Wf7TFa/1jU6PWSoHrnSC/ceU0KLJzX8lgF9ckXXBIGADOkNLjeSQO9CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG+6rFAkd9omdvAkzQUZdLZi+xSy5zPHnPDQWsfCbqFCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonbowyer
+
+==================================================================

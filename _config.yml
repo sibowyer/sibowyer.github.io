@@ -1,5 +1,0 @@
- theme: jekyll-theme-minimal
- 
- markdown: kramdown
- kramdown:
-    auto_ids: true
